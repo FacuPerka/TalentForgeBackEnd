@@ -42,4 +42,4 @@ The following technical goals have been achieved in the development of this proj
 [Jhohan Cortes LKDN](https://www.linkedin.com/in/jhohan-cortes-a314a8213/) | [Jhohan Cortes GH](https://github.com/JhohanCortes)<br>
 [Sebastian Albornoz LKDN](https://www.linkedin.com/in/sebastian-albornoz-126b90237/) | [Sebastian Albornoz GH](https://github.com/Shakkus)<br>
 [Sergio Correa LKDN](https://www.linkedin.com/in/sergio-correa-a85563267/) | [Sergio Correa GH](https://github.com/SergioFCorrea)<br>
-[Thiago Zambonini GH ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)<br>
+[Thiago Zambonini GH ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/) | [Thiago Zambonini GH ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)<br>
