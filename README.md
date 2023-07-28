@@ -1,5 +1,5 @@
 <h2>Important</h2>
-Frontend must be running at the same time: [Frontend](https://github.com/FacuPerka/TalentForgeFrontEnd)
+Frontend must be running at the same time: https://github.com/FacuPerka/TalentForgeFrontEnd
 <br>
 <br>
 
@@ -25,7 +25,7 @@ The following technical goals have been achieved in the development of this proj
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/FacuPerka/TalentForgeFrontEnd.git
+   git clone https://github.com/FacuPerka/TalentForgeBackEnd.git
    ```
 2. Install NPM packages
    ```sh
