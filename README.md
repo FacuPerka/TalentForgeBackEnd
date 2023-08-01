@@ -3,23 +3,23 @@ Frontend must be running at the same time: https://github.com/FacuPerka/TalentFo
 <br>
 <br>
 
-<h2>Summary</h2>
-Programming and Languages Courses Page
-This project is a web application that helps people learn about different programming languages and how to use them to create web applications. The courses are designed for people of all experience levels, from beginners to advanced.
+<h2>Overview</h2>
+Webpage for Programming and Language Courses
+This project is an online application that aids individuals in learning various programming languages and their application in web development. The courses are tailored to cater to individuals with diverse experience levels, ranging from novices to experts.
 
 <h2>Technical Goals</h2>
 
-The following technical goals have been achieved in the development of this project:
-* Deployment: The project has been deployed into production on a web server.
-* Third-party authentication: The project allows users to authenticate with their Google or Twitter account.
-* Payment gateway: The project allows users to purchase courses with a credit card.
-* Combined filters: The project allows users to filter courses by topic, duration, rating and price.
-* Using Cloudinary: The project uses Cloudinary to store and serve images.
-* Notifications with EmailJS: The project uses EmailJS to send notifications to users.
-* Logical deletion: The project allows users to logically delete courses from their watchlists.
-* Local Storage: The project uses Local Storage to store user preferences.
-* Reviews: The project allows users to leave reviews of the courses.
-* Admin Dashboard: The project has an admin dashboard that allows administrators to manage courses, users, and roles.
+The project has achieved the following technical goals during development:
+* Deployment It has been deployed on a web server for production.
+* Third-party authentication Users are able to authenticate using their Google or Twitter account.
+* Payment Gateway: Users can buy courses using a credit card through the project.
+* Filters Combined: Users can filter courses based on topic, duration, rating, and price.
+* Using Cloudinary: Cloudinary is used to store and serve images in the project.
+* The project sends notifications to users through EmailJS.
+* Logical deletion is supported: Users can logically delete courses from their watchlists in the project.
+* Local Storage is used in the project: The project utilises Local Storage to store user preferences.
+* Course Reviews: Users are able to submit reviews for the courses.
+* Administrator Dashboard: Administrators can manage courses, users, and roles using the project's dashboard.
 
 ### Installation
 
